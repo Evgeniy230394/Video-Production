@@ -36,7 +36,7 @@
 }
 
 .socials__item--icon--fb .socials__link {
-  background-image: url(./../../img/facebook.png);
+  background-image: url(./../../img/f.png);
 }
 
 .socials__item--icon--fb .socials__link:hover {
@@ -44,7 +44,7 @@
 }
 
 .socials__item--icon--insta .socials__link {
-  background-image: url(./../../img/instagram.png);
+  background-image: url(./../../img/in.png);
 }
 
 .socials__item--icon--insta .socials__link:hover {
