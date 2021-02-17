@@ -22,6 +22,6 @@ filter: grayscale(1);
   transition: filter .2s;
 }
 
-.partners__item:nth-child(4n) {
-    text-align: right;
+.partners__item:nth-child(4n + 4) {
+    /* justify-content: flex-end; */
 }
