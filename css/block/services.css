@@ -5,3 +5,8 @@
 .services__item {
   margin-bottom: 49px;
 }
+
+.servises__link {
+  text-decoration: none;
+  display: flex;
+}
