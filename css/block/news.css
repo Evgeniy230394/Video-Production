@@ -16,9 +16,7 @@
 }
 
 .news__item {
- flex: 1;
  min-height: 396px;
- margin-right: 2%;
 }
 
 .news__item:last-child {
