@@ -10,3 +10,8 @@
   text-decoration: none;
   display: flex;
 }
+
+a.servises__link:hover .button {
+  background-color: #FF3D00;
+  color: #fff;
+}
