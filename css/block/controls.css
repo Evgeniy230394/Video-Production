@@ -20,3 +20,7 @@
 .controls__checkbox {
   display: none;
 }
+
+.controls__item--action {
+  color: #F2D4C9
+}
