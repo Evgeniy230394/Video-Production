@@ -4,11 +4,20 @@
   padding: 95px 0 61px 0;
 }
 .inner-section--bg--grey {
-  background: #f4f5f5;
+  background: #F4F5F5;
 }
 .inner-section__title {
   font-size: 48px;
   font-weight: bold;
   line-height: 1.1;
   margin-bottom: 87px;
+}
+.inner-section__title-reviews {
+  font-size: 36px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 54px;
+}
+.inner-section__reviews {
+  padding: 79px 0 96px 0;
 }
